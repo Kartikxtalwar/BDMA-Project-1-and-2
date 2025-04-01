@@ -30,11 +30,16 @@ Transactions
 Implements CRUD operations to validate database functionality.
 
 Includes:
-CREATE – Adding new records to tables.
-READ – Fetching data using SELECT queries.
-UPDATE – Modifying existing records.
-DELETE – Removing data securely.
-Helps in verifying data consistency and error handling.
+*CREATE – Adding new records to tables.
+
+* READ – Fetching data using SELECT queries.
+
+* UPDATE – Modifying existing records.
+
+* DELETE – Removing data securely.
+
+* Helps in verifying data consistency and error handling.
+
 # 3. kartik_stress_testing.sql
 Contains queries to simulate high-load scenarios and evaluate database performance.
 Includes:
@@ -44,7 +49,7 @@ Concurrent Transactions – Simulating multiple users.
 Helps assess query execution time, indexing efficiency, and database bottlenecks.
 
 ## Key Takeaways
-Well-structured database schema enhances data integrity.
+##### Well-structured database schema enhances data integrity.
 
 CRUD validation ensures smooth user interactions.
 
