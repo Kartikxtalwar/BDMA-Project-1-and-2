@@ -43,11 +43,9 @@ Complex Joins – Checking query optimization.
 Concurrent Transactions – Simulating multiple users.
 Helps assess query execution time, indexing efficiency, and database bottlenecks.
 
-## Technologies Used
-SQL Database Management System (DBMS): MySQL / PostgreSQL / SQL Server (Specify the one used)
-Testing Tools: SQL Benchmarking, Performance Logs
-
 ## Key Takeaways
 Well-structured database schema enhances data integrity.
+
 CRUD validation ensures smooth user interactions.
+
 Stress testing highlights performance improvements.
