@@ -5,11 +5,11 @@
 This project contains SQL scripts related to database schema design, CRUD operations testing, and stress testing to ensure the database's functionality, efficiency, and scalability.
 
 ## Project Objectives
-# Database Schema Design:
+Database Schema Design:
 Define tables, relationships, and constraints.
-# CRUD Operations Testing:
+CRUD Operations Testing:
 Validate Create, Read, Update, and Delete operations.
-# Stress Testing:
+Stress Testing:
 Analyze performance under high-load conditions.
 
 ## SQL Files Overview
